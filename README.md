@@ -2,7 +2,7 @@
 [![Banner](https://i.imgur.com/hbp9h3L.png)](URL_DO_LINK_PARA_CLICAR)
 
 <h1 align="center">
-  <img src="URL_DA_IMAGEM_DO_EMOJI" alt="Emoji de Computador/Notebook" width="30"> Technology Stack
+Technology Stack :computer:
 </h1>
 
 <h2 align="center">I'm Manuella, 23 years old, and a software developer passionate about learning and discovering new technologies. :computer:</h2>
