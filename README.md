@@ -1,5 +1,5 @@
 <!-- Banner -->
-[![Banner](https://imgur.com/gallery/sbiebj3)](URL_DO_LINK_PARA_CLICAR)
+[![Banner](https://i.imgur.com/hbp9h3L.png)](URL_DO_LINK_PARA_CLICAR)
 
 <h1 align="center">
   <img src="URL_DA_IMAGEM_DO_EMOJI" alt="Emoji de Computador/Notebook" width="30"> Technology Stack
