@@ -19,7 +19,7 @@ Technology Stack :computer:
   <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
 </p>
 
-<h2 align="center">My GitHub Stats</h2>
+<h1 align="center">My GitHub Stats :bar_chart:</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
