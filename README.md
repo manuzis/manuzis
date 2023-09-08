@@ -1,6 +1,10 @@
 <!-- Banner -->
 [![Banner](https://i.imgur.com/FEXNCOu.png)](https://github.com/manuggetts)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manuggetts&color=6A0DAD" alt="Profile Views">
+</p>
+
 <h1 align="center">
 Technology Stack :computer:
 </h1>
@@ -25,8 +29,4 @@ Technology Stack :computer:
   <img src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuggetts&theme=vision-friendly-dark" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manuggetts&color=6A0DAD" alt="Profile Views">
 </p>
