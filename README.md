@@ -1,5 +1,5 @@
 <!-- Banner -->
-[![Banner](https://i.imgur.com/hbp9h3L.png)](URL_DO_LINK_PARA_CLICAR)
+[![Banner](https://i.imgur.com/FEXNCOu.png)](URL_DO_LINK_PARA_CLICAR)
 
 <h1 align="center">
 Technology Stack :computer:
