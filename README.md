@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=yellow-green" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&layout=compact&theme=yellow-green" alt="Most Used Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuggetts&theme=yellow-green" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&layout=compact&theme=dracula" alt="Most Used Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuggetts&theme=dracula" alt="GitHub Streak">
 </p>
 
 <p align="center">
