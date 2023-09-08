@@ -1,5 +1,5 @@
 <!-- Banner -->
-[![Banner](https://i.imgur.com/FEXNCOu.png)](URL_DO_LINK_PARA_CLICAR)
+[![Banner](https://i.imgur.com/FEXNCOu.png)](https://github.com/manuggetts)
 
 <h1 align="center">
 Technology Stack :computer:
@@ -28,5 +28,5 @@ Technology Stack :computer:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manuggetts&color=yellow" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=manuggetts&color=6A0DAD" alt="Profile Views">
 </p>
