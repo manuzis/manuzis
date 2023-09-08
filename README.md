@@ -1,7 +1,8 @@
 <h1 align="center">Welcome!</h1>
-<h2 align="center">I'm Manuella, 23 years old, and a software developer passionate about learning and discovering new technologies.</h2>
+<h2 align="center">I'm Manuella, 23 years old, and a software developer passionate about learning and discovering new technologies. :computer:</h2>
 
 <p align="center">
+  <strong>Technology Stack</strong><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -16,5 +17,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=yellow-green" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&layout=compact&theme=yellow-green" alt="Most Used Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuggetts&theme=yellow-green" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manuggetts&color=yellow" alt="Profile Views">
 </p>
